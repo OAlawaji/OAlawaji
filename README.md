@@ -1,6 +1,7 @@
 **About Omar Alawaji**
 
 🔭 Currently working on a Next.js - TypeScript project
+
 🌱 Currently learning mobile development (Flutter, Dart)
 
 **You might be here to play:** https://oalawaji.github.io/XOof3/
