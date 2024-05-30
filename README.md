@@ -10,21 +10,7 @@
 
 <ul>
   <li><strong>Data Science & Machine Learning</strong>: Well understanding in data science fundamentals and machine learning concepts</li>
-  <li><strong>Web Development,</strong> Familiar with:
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>TypeScript</li>
-      <li>React</li>
-      <li>Next.js</li>
-      <li>Express</li>
-      <li>jQuery</li>
-      <li>MongoDB</li>
-      <li>Npm</li>
-      <li>Postman</li>
-      <li>Redux</li>
-    </ul>
+  <li><strong>Web Development</strong>: Using MERN stack and next.js, in addition to multiple tools learned at need 
   </li>
   <li><strong>Hardware</strong>: Good understanding of hardware overall</li>
 </ul>
