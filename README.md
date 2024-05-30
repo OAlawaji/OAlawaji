@@ -9,7 +9,7 @@
 
 <ul>
   <li><strong>Data Science & Machine Learning</strong>: Well understanding in data science fundamentals and machine learning concepts</li>
-  <li><strong>Web Development</strong>: Familarity with:
+  <li><strong>Web Development,</strong> Familiar with:
     <ul>
       <li>HTML</li>
       <li>CSS</li>
