@@ -14,7 +14,13 @@
   </li>
   <li><strong>Hardware</strong>: Good understanding of hardware overall</li>
 </ul>
-
+**Reach Me**
+  <a href="https://www.linkedin.com/in/oalawaji/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://x.com/Nkoasher">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 **Skills**
 
 <p align="center">
