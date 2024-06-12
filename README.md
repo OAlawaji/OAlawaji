@@ -16,11 +16,15 @@
 </ul>
 
 **Reach Me**
+
   <a href="https://www.linkedin.com/in/oalawaji/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <a href="https://x.com/Nkoasher">
+  <a href="https://x.com/Nkoasher">
     <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/nkoash/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
 **Skills**
