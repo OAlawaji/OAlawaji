@@ -20,13 +20,6 @@
   <a href="https://www.linkedin.com/in/oalawaji/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://x.com/Nkoasher" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.instagram.com/nkoash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
   
 **Skills**
 
